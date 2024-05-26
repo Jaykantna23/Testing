@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Maps/Cube_Blueprint.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Blueprints/Assets/Cube_BP.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/BarrelCarnage.umap",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/StarterContent/Maps/Sphere_Blueprint.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/My Work/Gamedev/Unreal games/First_UE_Game/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset"
+			]
+		}
+	]
+}
